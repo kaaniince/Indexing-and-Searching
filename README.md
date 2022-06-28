@@ -1,6 +1,6 @@
-# Indexing and Searching
+# Indexing and Searching (Kelime, Inbound Link ve PageRank)
 
-Bu program kelime bazlı, link bazlı ve Google tarafından kullanılan pagerank bazlı olasılıklarıyla beraber sıralama ölçütü sunar.
+Bu program kelime bazlı, inbound link bazlı ve Google tarafından kullanılan PageRank bazlı olasılıklarıyla beraber sıralama ölçütü sunar.
 <br>
 
 Verilen site üzerinden bir emekleme başlatılır.
@@ -15,7 +15,7 @@ Sitedeki linkleri dolaşır.
 ![2](https://user-images.githubusercontent.com/57836014/176200370-0252abf2-6bea-4242-83fb-33a11eade4ea.PNG)
 <br>
 
-Tarama tamamlandığında bunu ekrana bastırır.
+Tarama tamamlandığında mesaj ekrana bastırır.
 <br>
 
 ![3](https://user-images.githubusercontent.com/57836014/176200392-9090c692-0d06-4040-a483-077f49ff03ad.PNG)
