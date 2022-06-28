@@ -1,9 +1,7 @@
 # Indexing and Searching (Kelime, Inbound Link ve PageRank)
 
-Bu program kelime bazlı, inbound link bazlı ve Google tarafından kullanılan PageRank bazlı olasılıklarıyla beraber sıralama ölçütü sunar.
-<br>
+Bu program, verilen bir üniversite bölümünün ders planı sitesinin üzerinden bir emekleme başlatır. Kelime ya da kelimeler sitede bulunuyorsa seçilen kelime bazlı, inbound link bazlı ve Google tarafından kullanılmış olan PageRank bazlı olasılıklarıyla beraber sıralama ölçütü sunar.
 
-Verilen bir üniversite bölümünün ders planı sitesinin üzerinden bir emekleme başlatılır.
 <br>
 
 ![1](https://user-images.githubusercontent.com/57836014/176200356-9196244e-8ad9-4058-b904-61c6d7a0b571.PNG)
