@@ -23,6 +23,8 @@ Tarama tamamlandığında mesaj ekrana bastırır.
 
 Aramak istenen kelime ve kelime grupları girilerek belirli arama kriterleri seçilir. Bunlar bir veritabanında tutulur ve program kapatılsa bile verilere herhangi bir zarar gelmez.
 <br>
+
+
 PageRank ile aranmak istenen kelimeler, olasılıklarıyla beraber ekrana getirilir.
 <br>
 ![4](https://user-images.githubusercontent.com/57836014/176200421-255da3b9-ce57-41c3-84c5-909c4a132637.PNG)
