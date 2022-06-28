@@ -23,6 +23,6 @@ Aramak istenen kelime ve kelime grupları girilerek belirli arama kriterleri se�
 <br>
 
 
-PageRank ile aranmak istenen kelimeler; olasılığı, ders kodu ve linkleriyle beraber ekrana getirilir.
+Örnek: PageRank ile aranmak istenen kelimeler; olasılığı, ders kodu ve linkleriyle beraber ekrana getirilmiştir.
 <br>
 ![4](https://user-images.githubusercontent.com/57836014/176200421-255da3b9-ce57-41c3-84c5-909c4a132637.PNG)
